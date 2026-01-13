@@ -27,3 +27,4 @@ The report provides a detailed examination of the following areas:
 **Repository Contents**
 
 * **LVMH_Report.pdf:** The full equity research document containing the investment thesis, data analysis, and final recommendation.
+* **LVMH_ratios.xlsx** The supporting financial dataset containing the quantitative models. This file includes the raw data for the "Big 3" peer comparison, the calculation of key financial ratios (Profitability, Liquidity, Return metrics), and the computation of the valuation multiples used to derive the target price range.
